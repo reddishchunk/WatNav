@@ -1,0 +1,22 @@
+body {background-color:linen;}
+}
+.buttons,
+.footer {
+  background-color: lightgrey;
+}
+
+.content,
+.banner,
+.footer,
+.buttons {
+  text-align: center;
+}
+
+p,
+h1,
+h2,
+.banner,
+.footer {
+  color: black;
+  font-family: arial, helvetica, sans-serif;
+}
